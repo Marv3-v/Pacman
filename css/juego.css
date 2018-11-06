@@ -1,0 +1,12 @@
+
+.fondo {
+  width: 50px;
+  height: 50px;
+  background: url('icono/pacman.png');
+  /* border: 2px solid #35434a; */
+}
+
+.mundo {
+  display: flex;
+  flex-direction: row;
+}
